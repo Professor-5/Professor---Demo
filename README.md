@@ -1,2 +1,3 @@
-# Professor---Demo
-This is my !st Git Repository.
+# Professor-Demo
+This is my 1st Git Repository.
+Author - Bishal Gautam
